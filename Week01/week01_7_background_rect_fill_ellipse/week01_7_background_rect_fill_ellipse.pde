@@ -1,0 +1,9 @@
+//week01_7_background_rect_fill_ellipse
+size(600,400);
+background(#FFFD7E);
+fill(#FF0000);
+rect(100,100,400,200);
+fill(#0000FF);
+rect(100,100,200,100);
+fill(#FFFFFF);
+ellipse(200,150,50,50);
